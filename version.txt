@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version: 1.0.1
+=======
+version: 1.1.0-dev
+>>>>>>> 4db9f9205696d04ee57d9cc28a03b5f3a3c0bddb
